@@ -1,0 +1,5 @@
+n=('rushal')
+a=list(n)
+print(a)
+a.reverse()
+print(a)
